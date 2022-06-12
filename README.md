@@ -8,9 +8,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![theater_outcomes_vs_launch](https://github.com/hastyjr/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![theater_outcomes_vs_launch](https://github.com/hastyjr/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-![outcomes_vs_goals](https://github.com/hastyjr/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![outcomes_vs_goals](https://github.com/hastyjr/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
