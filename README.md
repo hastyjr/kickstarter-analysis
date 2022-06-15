@@ -3,8 +3,8 @@
 ## Overview of Project
 
 ### Purpose 
-### This kickstarter analysis is to provide an understanding of the fundraising goals and outcomes and how different campaings faired in relation to launch dates and funding goals. Below you will find some visualizations of campaign outcomes based on their launch dates and their funding goals. 
-
+### _**This kickstarter analysis is to provide an understanding of the fundraising goals and outcomes and how different campaings faired in relation to launch dates and funding goals. Below you will find some visualizations of campaign outcomes based on their launch dates and their funding goals.**_ 
+---
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -17,6 +17,7 @@ One of the biggest challenges and difficulties I had was getting this chart to r
 
 ![challenges_screenshot_1](https://github.com/hastyjr/kickstarter-analysis/blob/main/Resources/Screen%20Shot%202022-06-15%20at%2000.14.35.png)
 
+---
 
 ## Results
 
@@ -30,10 +31,17 @@ One of the biggest challenges and difficulties I had was getting this chart to r
 
 - **What can you conclude about the Outcomes based on Goals?**
 
-    Conclusions I have drawn on the Outcomes based on Goals are:
+    I have drawn to the conclusion, despite my challenges, that the larger the goal, the smaller the chance of success. You would think it would opposite, in that the smaller the goal the better chance of success and the higher chance of failure.
 
-        
+    When it came to the smaller goals, success is still most likely, but and proves that as the goal rises, the chance of success lowers and failure rises. 
+    
 
 - **What are some limitations of this dataset?**
 
+    The limitations of the dataset here is that we're calculating multiple sets of currency and they don't translate to the correct rate. 
+
+    At this point in the analysis, we have not compared `Date Created` and `Date Ended` with the actual `Due Date`. So while there might have been success, it could have also taken a substantial amount of time to meet the deadline. 
+
 - **What are some other possible tables and/or graphs that we could create?**
+
+    Some other possible tables / or graphs we could create are those like I stated above in the limitations of the dataset. Creating a graph of Kickstarted total time to goal completion in comparsion to the due date. It would have also been beneficial to see this broken down by country and accurate currency comparison in terms of percentages.        
